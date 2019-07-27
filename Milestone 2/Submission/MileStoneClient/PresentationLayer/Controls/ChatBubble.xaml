@@ -1,0 +1,48 @@
+﻿<UserControl x:Class="MileStoneClient.PresentationLayer.Controls.ChatBubble"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:converters="clr-namespace:MileStoneClient.PresentationLayer.Converters"
+             xmlns:presentation="clr-namespace:MileStoneClient.PresentationLayer"
+             xmlns:local="clr-namespace:MileStoneClient.PresentationLayer.Controls"
+             mc:Ignorable="d" Height="Auto" Width="Auto" MaxWidth="{Binding chatBubbleSize}" MinWidth="200" Padding="5" d:DesignWidth="300">
+
+    <Control.Resources>
+        <converters:BooleanToColorConverter x:Key="BooleanToColorConverter"/>
+        <converters:BooleanToAlignmentConverter x:Key="BooleanToAlignmentConverter"/>
+        <converters:AdditionSubstractionConvertor x:Key="AdditionSubstractionConvertor"/>
+    </Control.Resources>
+
+    <Grid Margin="0 0 0 0" HorizontalAlignment="{Binding Path=userMessage, Converter={StaticResource BooleanToAlignmentConverter}}">
+
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+
+        <!-- Speech bubble rectangle -->
+        <Border Grid.Row="0" CornerRadius="10" Padding="11" Background="{Binding Path=userMessage, Mode=TwoWay, Converter={StaticResource BooleanToColorConverter}}">
+            <Grid>
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="*" />
+                    <RowDefinition Height="Auto" />
+                    <RowDefinition Height="Auto" />
+                </Grid.RowDefinitions>
+                <TextBlock VerticalAlignment="Center" HorizontalAlignment="Left" Grid.Row="0" TextWrapping="Wrap" FontSize="{Binding Path=fontSize, Converter={StaticResource AdditionSubstractionConvertor}, ConverterParameter=1}" Foreground="Black" FontWeight="SemiBold" Text="{Binding username}" IsEnabled="True"/>
+                <!-- Message text -->
+                <TextBlock VerticalAlignment="Center" Grid.Row="1" HorizontalAlignment="Left" TextWrapping="Wrap" FontSize="{Binding fontSize}" Foreground="Black" Text="{Binding messageBody}" IsEnabled="True" Margin="0,3,0,0"/>
+                <TextBlock Text="{Binding Path=timeAndGroup}" Grid.Row="2" Foreground="#FF5F5F5F" TextWrapping="Wrap" HorizontalAlignment="Right" FontSize="{Binding Path=fontSize, Converter={StaticResource AdditionSubstractionConvertor}, ConverterParameter=-3}" Padding="0" Margin="0,7,0,0"/>
+            </Grid>
+        </Border>
+        <!-- Chat bubble anchor -->
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="15"/>
+                <ColumnDefinition Width="*"/>
+                <ColumnDefinition Width="15"/>
+            </Grid.ColumnDefinitions>
+            <Path Grid.Column="1" HorizontalAlignment="{Binding Path=userMessage, Converter={StaticResource BooleanToAlignmentConverter}}" Stroke="Black" Panel.ZIndex="1" Margin="0 -1 0 0" Data="M 0,0 L 10,10 L 20,0 L 0,0" StrokeThickness="0" Fill="{Binding Path=userMessage, Mode=TwoWay, Converter={StaticResource BooleanToColorConverter}}" />
+        </Grid>
+    </Grid>
+</UserControl>

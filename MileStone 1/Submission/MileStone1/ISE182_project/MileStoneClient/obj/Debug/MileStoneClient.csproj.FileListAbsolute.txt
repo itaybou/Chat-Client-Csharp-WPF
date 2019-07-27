@@ -1,0 +1,26 @@
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\MileStoneClient.csprojResolveAssemblyReference.cache
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\MileStoneClient.csproj.CoreCompileInputs.cache
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\MileStoneClient.exe.config
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\MileStoneClient.exe
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\MileStoneClient.pdb
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\MileStoneClient.csproj.CopyComplete
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\MileStoneClient.exe
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\MileStoneClient.pdb
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\log4net.dll
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\log4net.xml
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\log4net.config
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\log4net.config
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\MileStoneClient.exe.config
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\MileStoneClient.exe
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\MileStoneClient.pdb
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\log4net.dll
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\log4net.xml
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\MileStoneClient.csprojResolveAssemblyReference.cache
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\MileStoneClient.csproj.CoreCompileInputs.cache
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\MileStoneClient.csproj.CopyComplete
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\MileStoneClient.exe
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\MileStoneClient.pdb

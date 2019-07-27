@@ -1,0 +1,158 @@
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\MileStoneClient.csproj.CoreCompileInputs.cache
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\MileStoneClient.exe.config
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\MileStoneClient.exe
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\MileStoneClient.pdb
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\MileStoneClient.csproj.CopyComplete
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\MileStoneClient.exe
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\MileStoneClient.pdb
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\log4net.dll
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\log4net.xml
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\log4net.config
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\log4net.config
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\MileStoneClient.exe.config
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\MileStoneClient.exe
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\MileStoneClient.pdb
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\log4net.dll
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Newtonsoft.Json.dll
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\log4net.xml
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Newtonsoft.Json.xml
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\MileStoneClient.csprojResolveAssemblyReference.cache
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\MileStoneClient.csproj.CoreCompileInputs.cache
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\MileStoneClient.csproj.CopyComplete
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\MileStoneClient.exe
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\MileStoneClient.pdb
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\MileStoneClient_MarkupCompile.cache
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\MileStoneClient_MarkupCompile.lref
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\MileStoneClient.g.resources
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\MileStoneClient.Properties.Resources.resources
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\MileStoneClient.csproj.GenerateResource.cache
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\PresentationLayer\ChatRoomWindow.g.cs
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\PresentationLayer\ChatRoomWindow.baml
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\PresentationLayer\LoginWindow.g.cs
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\PresentationLayer\LoginWindow.baml
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\Program.g.cs
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Images\scroll_down.png
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Images\scroll_up.png
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\MileStoneClient_Content.g.cs
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\chatRoomIcon.ico
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\shutdown.png
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Sounds\message_recieve.wav
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Sounds\message_send.wav
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Sounds\error.wav
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\user_icon.png
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\password_icon.png
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Images\chatroom_logo.png
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\send_message.png
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\notifications.png
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\exit_menu_choice.ico
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\logout_menu_choice.ico
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\bin_menu_choice.ico
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\ascending_up.ico
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\criteria_menu_choice.ico
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\descending.ico
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\send_menu_choice.ico
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\timestamp_menu_choice.ico
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\username_menu_choice.ico
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\logout_icon.png
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\bin_messages_icon.png
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\refresh_communication_icon.png
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\reset.png
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\backsapce_icon.png
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\group_icon.png
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Sounds\message_trash.wav
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Sounds\reset_effect.wav
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\sound_off.png
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\sound_on.png
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Sounds\clear_text.wav
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\backsapce_icon.png
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\bin_menu_choice.ico
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\ascending_up.ico
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\bin_messages_icon.png
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\criteria_menu_choice.ico
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\descending.ico
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\exit_menu_choice.ico
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\group_icon.png
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\logout_icon.png
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\logout_menu_choice.ico
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\notifications.png
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\password_icon.png
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\refresh_communication_icon.png
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\reset.png
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\send_menu_choice.ico
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\send_message.png
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\sound_off.png
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\sound_on.png
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\timestamp_menu_choice.ico
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\username_menu_choice.ico
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\user_icon.png
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Images\chatroom_logo.png
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Sounds\clear_text.wav
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Sounds\message_send.wav
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Sounds\error.wav
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Sounds\message_recieve.wav
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\shutdown.png
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Images\scroll_down.png
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Sounds\message_trash.wav
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Sounds\reset_effect.wav
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Images\scroll_up.png
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\chatRoomIcon.ico
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\PresentationLayer\ChatRoomWindow.g.cs
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\PresentationLayer\LoginWindow.g.cs
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\Program.g.cs
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\MileStoneClient_Content.g.cs
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\MileStoneClient_MarkupCompile.cache
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\MileStoneClient_MarkupCompile.lref
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\PresentationLayer\ChatRoomWindow.baml
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\PresentationLayer\LoginWindow.baml
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\MileStoneClient.g.resources
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\MileStoneClient.Properties.Resources.resources
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\MileStoneClient.csproj.GenerateResource.cache
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\filter_menu_choice.png
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Sounds\click_sound.wav
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\clear_filter_menu_choice.png
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Sounds\small_error.wav
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Sounds\sound_on.wav
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\filter.ico
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\ascending_indicator.png
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\decsending_indicator.png
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\nunit.framework.dll
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\nunit.framework.pdb
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\nunit.framework.xml
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\MileStoneClient.csprojAssemblyReference.cache
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\text_size_icon.png
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\font_size_larger_menu_icon.png
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\font_size_smaller_menu_icon.png
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\minus_icon.png
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\plus_icon.png
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\resize_window.png
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\ascending_indicator.png
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\clear_filter_menu_choice.png
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\decsending_indicator.png
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\filter.ico
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\filter_menu_choice.png
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\font_size_larger_menu_icon.png
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\font_size_smaller_menu_icon.png
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\minus_icon.png
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\plus_icon.png
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\resize_window.png
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\text_size_icon.png
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Sounds\click_sound.wav
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Sounds\small_error.wav
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Sounds\sound_on.wav
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\nunit.framework.dll
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\nunit.framework.pdb
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\nunit.framework.xml
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Sounds\tick_sound.wav
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\emoticon_menu_icon.ico
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\emoticon_menu_icon.ico
+C:\Users\סהר\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Sounds\tick_sound.wav
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\PresentationLayer\Controls\ChatBubble.g.cs
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\obj\Debug\PresentationLayer\Controls\ChatBubble.baml
+C:\Users\Itay Bouganim\source\repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\default_settings_icon.png
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\message_bubble_view_icon.png
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\textual_view_icon.png
+C:\Users\Itay Bouganim\Source\Repos\ISE182_project\MileStoneClient\bin\Debug\Resources\Icons\view_icon.png

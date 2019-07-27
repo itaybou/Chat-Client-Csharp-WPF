@@ -1,0 +1,1 @@
+C:\Python\Python36\python.exe server.py >> serverLog.txt

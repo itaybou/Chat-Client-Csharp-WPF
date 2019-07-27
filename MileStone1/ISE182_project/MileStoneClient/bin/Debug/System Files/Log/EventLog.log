@@ -1,0 +1,39 @@
+2018-04-22 20:25:17,486 [1] [Type: DEBUG] Graphical user interface loaded successfully.
+Occurred in file: C:\Users\???\Source\Repos\ISE182_project\MileStoneClient\LogicLayer\ChatRoom.cs | Line: 39  
+
+2018-04-22 20:27:05,579 [1] [Type: DEBUG] Graphical user interface loaded successfully.
+Occurred in file: C:\Users\???\Source\Repos\ISE182_project\MileStoneClient\LogicLayer\ChatRoom.cs | Line: 39  
+
+2018-04-22 20:27:10,054 [1] [Type: INFO] USER: ASDASD has successfully registered. Current user count: 1
+Occurred in file: C:\Users\???\Source\Repos\ISE182_project\MileStoneClient\LogicLayer\ChatRoom.cs | Line: 39  
+
+2018-04-22 20:27:37,512 [1] [Type: ERROR] The following error occurred while trying to retrieve from server: One or more errors occurred.
+Occurred in file: C:\Users\???\Source\Repos\ISE182_project\MileStoneClient\LogicLayer\ChatRoom.cs | Line: 39  
+
+2018-04-22 20:27:42,604 [1] [Type: DEBUG] Chat-Room Client loaded successfully.
+Occurred in file: C:\Users\???\Source\Repos\ISE182_project\MileStoneClient\LogicLayer\ChatRoom.cs | Line: 39  
+
+2018-04-22 20:27:42,620 [1] [Type: DEBUG] Successfully loaded registered users list located: SystemFiles\Users.bin
+Occurred in file: C:\Users\???\Source\Repos\ISE182_project\MileStoneClient\LogicLayer\ChatRoom.cs | Line: 39  
+
+2018-04-22 20:27:42,635 [1] [Type: DEBUG] Graphical user interface loaded successfully.
+Occurred in file: C:\Users\???\Source\Repos\ISE182_project\MileStoneClient\LogicLayer\ChatRoom.cs | Line: 39  
+
+2018-04-22 20:27:57,291 [1] [Type: INFO] USER: Itay has successfully registered. Current user count: 2
+Occurred in file: C:\Users\???\Source\Repos\ISE182_project\MileStoneClient\LogicLayer\ChatRoom.cs | Line: 39  
+
+2018-04-22 20:28:12,182 [1] [Type: DEBUG] Chat-Room Client loaded successfully.
+Occurred in file: C:\Users\???\Source\Repos\ISE182_project\MileStoneClient\LogicLayer\ChatRoom.cs | Line: 39  
+
+2018-04-22 20:28:12,198 [1] [Type: DEBUG] Successfully loaded registered users list located: SystemFiles\Users.bin
+Occurred in file: C:\Users\???\Source\Repos\ISE182_project\MileStoneClient\LogicLayer\ChatRoom.cs | Line: 39  
+
+2018-04-22 20:28:12,214 [1] [Type: DEBUG] Graphical user interface loaded successfully.
+Occurred in file: C:\Users\???\Source\Repos\ISE182_project\MileStoneClient\LogicLayer\ChatRoom.cs | Line: 39  
+
+2018-04-22 20:28:18,292 [1] [Type: INFO] USER: Itay has logged in to Chat-Room.
+Occurred in file: C:\Users\???\Source\Repos\ISE182_project\MileStoneClient\LogicLayer\ChatRoom.cs | Line: 39  
+
+2018-04-22 20:28:42,299 [1] [Type: INFO] USER: Itay sent the following message: asdasd
+Occurred in file: C:\Users\???\Source\Repos\ISE182_project\MileStoneClient\LogicLayer\ChatRoom.cs | Line: 39  
+
